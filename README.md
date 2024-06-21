@@ -38,7 +38,7 @@
 - Origem
 - Destino
 - Tipo
-- Centro de Custo
+- Centro de Custo (um departamento financeiro, que gerencia as contas de forma centralizada)
 - Quantidade
 - Valor
 - Desconto
